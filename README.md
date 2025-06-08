@@ -20,4 +20,4 @@ This project showcases the UI design for a luxury hotel management app – **The
 ![Confirmation](figma-designs/Confirmation.png)
 
 ## 🔗 Figma Prototype
-[View the design live on Figma]([https://www.figma.com/...](https://bit.ly/4ktnSch))
+[View the design live on Figma](https://bit.ly/4ktnSch)
